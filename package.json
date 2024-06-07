@@ -1,7 +1,7 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a local server based simple chatting application for group or 1x1 chat",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
